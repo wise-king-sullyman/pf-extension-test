@@ -53,7 +53,7 @@ const Component = () => (
     {React.createElement(pageData.examples["Fullscreen example"])}
   </React.Fragment>
 );
-Component.displayName = 'ExtensionsPatternflyExtensionSeedReactDocs';
+Component.displayName = 'ExtensionsPfExtensionTestReactDocs';
 Component.pageData = pageData;
 
 export default Component;

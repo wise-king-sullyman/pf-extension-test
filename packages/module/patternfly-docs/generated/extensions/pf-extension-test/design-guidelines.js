@@ -45,7 +45,7 @@ const Component = () => (
     </ol>
   </React.Fragment>
 );
-Component.displayName = 'ExtensionsPatternflyExtensionSeedDesignGuidelinesDocs';
+Component.displayName = 'ExtensionsPfExtensionTestDesignGuidelinesDocs';
 Component.pageData = pageData;
 
 export default Component;
